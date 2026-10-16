@@ -1,0 +1,3 @@
+instance_id: v4.34.0
+image: zeyuzhenghub/lean4:v4.34.0
+platform: linux/amd64
