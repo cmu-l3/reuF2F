@@ -2,7 +2,7 @@
 
 <div align="center" style="line-height: 1;">
   <a href="https://github.com/cmu-l3/Leanimum-agent"><img src="https://img.shields.io/badge/Agent-Leanimum--agent-FDB515.svg?style=flat-square&labelColor=000000"></a>
-  <a href="https://zeyu-zheng.github.io/reuF2F.pdf"><img src="https://img.shields.io/badge/arXiv-preprint-b31b1b.svg?style=flat-square&labelColor=000000"></a>
+  <a href="https://arxiv.org/abs/2610.27046"><img src="https://img.shields.io/badge/arXiv-preprint-b31b1b.svg?style=flat-square&labelColor=000000"></a>
   <a href="docs/index.md"><img src="https://img.shields.io/badge/Docs-reuF2F-009647.svg?style=flat-square&labelColor=000000"></a>
   <a href="https://github.com/zeyu-zheng/harbor"><img src="https://img.shields.io/badge/Integration-harbor-BCB49E.svg?style=flat-square&labelColor=000000"></a>
   <a href="https://probxiv.com/leaderboard"><img src="https://img.shields.io/badge/Leaderboard-ProbXiv.com-C41230.svg?style=flat-square&labelColor=000000"></a>
